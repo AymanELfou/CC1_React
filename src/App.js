@@ -19,7 +19,7 @@ function App() {
      
      <Routes>
 
-        <Route path='/routing' element={<h1 className='text-center'>Home</h1>} />
+        <Route path='/' element={<h1 className='text-center fw-bold '>Welcom To My Web Sit</h1>} />
         
         <Route path='/Calculatric' element={<Calcu/>} />
         <Route path='/Todo List' element={<Form/>}/>
@@ -27,7 +27,7 @@ function App() {
         <Route path='/Pagination'  element={<Pagination/>}/>
         <Route path='/Contact' element={<Recherch/>}/> 
         <Route path='/Langue' element={<Res/>}/>
-        <Route path="" element={<h1 className='text-center'>404 Page Not Found</h1>} />
+        <Route path="*" element={<h1 className='text-center'>404 Page Not Found</h1>} />
      </Routes>
 
 
