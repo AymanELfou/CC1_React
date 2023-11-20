@@ -1,0 +1,63 @@
+body {
+    background-color: #a0d7ff;
+}
+
+.nav-top {
+    margin: 40px auto 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 780px;
+    background: #17181a;
+    border-radius: 3px;
+    padding: 0px 20px;
+    box-shadow: 0 10px 20px rgba(19, 19, 19, 0.2);
+    border-radius: 15px;
+}
+
+.nav-top a {
+    font-size: 22px;
+    text-decoration: none;
+    color: #29a8ff;
+    padding: 20px 20px;
+    
+}
+
+
+
+/* .nav-top .exp{
+    margin-left: 13px;
+} */
+
+
+.nav-top .exp:hover a {
+    color: #29a8ff; /* Remettre la couleur du texte d'origine */
+    background-color: transparent; /* Annuler la couleur de fond */
+    border-radius: 0; /* Annuler la bordure arrondie */
+    
+    
+}
+
+
+
+.nav-top a:hover{
+    color: white;
+    background-color: red;
+    border-radius: 8px ;
+    padding: 20px 20px;
+    transition: .4s;
+}
+
+
+/* Style personnalisé pour le bouton de bascule */
+.custom-toggler {
+    background-color: gray; /* Couleur de fond du bouton */
+    border-color: blue;
+    border-radius:8px ;
+    border: none;
+
+    color: black; /* Couleur du texte du bouton */
+    
+  }
+  

@@ -1,0 +1,22 @@
+export const SliderData = [
+    {
+        image:
+        'https://imgs.search.brave.com/1tNxQNqcBjx2WLNvqrKpIKX1ignuPy_nfcMUgpS2s44/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTIw/MTI1MjE0OC9waG90/by9idXR0ZXJmbGll/cy5qcGc_cz02MTJ4/NjEyJnc9MCZrPTIw/JmM9cDhnYzJaVERr/SkNSc0k5cjJ5SEdE/MlB5NExTdjd2em5w/SnMwTi1IM3FSST0'
+      },
+      {
+        image:
+          'https://imgs.search.brave.com/Sw8YrmeYeQD5h_QeWdTtfcq94pSf9DIHuLC-pAw54Z4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAwLzUxLzU1LzMy/LzM2MF9GXzUxNTUz/Mjg3XzlqbTBTMkNW/MTNCdklzcXZxaUpD/YUpBeHBYNFR6akd5/LmpwZw'
+      },
+      {
+        image:
+          'https://imgs.search.brave.com/TZxcb4LlAwAoprOZoGMBtzuQGgGlfc9zpZKfDg22tTc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNTEy/NTk2MjI0L3Bob3Rv/L2JlZS5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9Y2VtN01H/OUh2R0dsTTJtcm5I/MVRoWkZKNF9mZVJS/NG9ONllMR2xLa0df/bz0'
+      },
+      {
+        image:
+          'https://images.unsplash.com/photo-1475189778702-5ec9941484ae?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1351&q=80'
+      },
+      {
+        image:
+          'https://images.unsplash.com/photo-1503177119275-0aa32b3a9368?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80'
+      }
+];
