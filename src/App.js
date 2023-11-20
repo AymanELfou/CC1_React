@@ -19,7 +19,7 @@ function App() {
      
      <Routes>
 
-        <Route path='/' element={<h1 className='text-center fw-bold '>Welcom To My Web Sit</h1>} />
+        <Route path='/CC1_React' element={<h1 className='text-center fw-bold '>Welcom To My Web Sit</h1>} />
         
         <Route path='/Calculatric' element={<Calcu/>} />
         <Route path='/Todo List' element={<Form/>}/>
